@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listArray">
+        <item>All</item>
+        <item>Media</item>
+        <item>Books</item>
+        <item>Football</item>
+        <item>Sport</item>
+        <item>Technology</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>all</item>
+        <item>media</item>
+        <item>books</item>
+        <item>football</item>
+        <item>sport</item>
+        <item>technology</item>
+    </string-array>
+
+</resources>

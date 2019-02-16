@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_title">Live!</string>
+    <string name="type">Type</string>
+    <string name="newsType">Music</string>
+    <string name="date">Date</string>
+    <string name="newsDate">2018/05/04</string>
+    <string name="newsSection">Sport</string>
+    <string name="noNews">No news found.</string>
+    <string name="noInternetConnection">No internet connection.</string>
+    <string name="searchTitle">Search</string>
+    <string name="author">Author</string>
+    <string name="authorName">Author Name</string>
+    <string name="searchHint">Music, Science...</string>
+    <string name="technology">Technology</string>
+    <string name="sport">Sport</string>
+    <string name="football">Football</string>
+    <string name="books">Books</string>
+    <string name="world_news">World news</string>
+    <string name="media">Media</string>
+    <string name="there_is_no_news">There is no news</string>
+    <string name="setting">Setting</string>
+    <string name="settings_title">News Settings</string>
+    <string name="No_News">Currently there are no stories. You can always come later and check for new stories.</string>
+    <string name="Key_pref" translatable="false">listPref</string>
+    <string name="default_Value">all</string>
+    <string name="no_internet">No Internet.</string>
+</resources>
